@@ -55,7 +55,10 @@
   <img src="https://img.icons8.com/color/48/000000/figma.png" width="40"/>
   <img src="https://img.icons8.com/color/48/000000/adobe-xd.png" width="40"/>
   <img src="https://img.icons8.com/fluency/48/000000/netlify.png" width="40"/>
+  <img src="https://img.icons8.com/ios-filled/50/1A1A1A/sql.png" width="40" alt="SQL"/>
+  <img src="https://img.icons8.com/color/48/000000/azure-1.png" width="40" alt="Azure Cloud"/>
 </p>
+
 
 ---
 
