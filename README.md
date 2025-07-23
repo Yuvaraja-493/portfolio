@@ -69,6 +69,50 @@
 - 🔐 Developed a **Blockchain-based Land Registry DApp** using Solidity + IPFS
 - 🧠 Created an **Interactive AR/VR Photo Album** using Unity & ARFoundation
 - 📊 Designed dashboards in **Tableau & Matplotlib** during internship at KS Smart
+---
+
+### 💼 Work Experience
+
+- ☁️ **Azure Data Fundamentals Intern at Microsoft (08/2024 – 10/2024)**  
+  Hands-on experience with Azure data storage, processing, and analytics tools (DP-900)
+
+- 📊 **Data Science Intern at KS Smart (06/2024 – 07/2024)**  
+  Built insightful dashboards analyzing insurance claims and raise trends using Python & Tableau
+
+- 🧠 **ML/DL & Computer Vision Training – IIT Madras (06/2023 – 08/2023)**  
+  Learned neural networks, deep learning models, and image processing in real-world scenarios
+
+---
+
+### 📂 Extra Projects
+
+- 🧾 **Anti-Counterfeiting System using Blockchain**  
+  Used decentralized ledgers and cryptographic product IDs to verify product authenticity and prevent duplication
+
+- 🧠 **Image Captioning using CNN + LSTM**  
+  Generated text descriptions from images using deep learning (MS COCO dataset)
+
+- 🌿 **Weed Detection for Smart Agriculture**  
+  Detected weeds in crop fields using imaging (drone/machine vision), helping targeted herbicide use
+
+- 💬 **Sentiment Analysis using NLP**  
+  Classified user comments using TF-IDF + Naive Bayes & Logistic Regression with high accuracy
+
+---
+
+### 🌐 Languages Known
+
+- 🇬🇧 English – Full Professional  
+- 🇮🇳 Tamil – Native  
+- 🇫🇷 French – Limited Working
+
+---
+
+### 🎯 Interests & Passion
+
+- ⚽ Football, 🏏 Cricket  
+- 📊 Data Analytics & DBMS  
+- 🔗 Blockchain & LLM Automation
 
 ---
 
