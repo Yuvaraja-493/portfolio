@@ -2,7 +2,7 @@
 <h3 align="center">Final Year CSE (Data Science) Student | AI Agent & Blockchain Builder 🚀</h3>
 
 <p align="center">
-  <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/main/assets/profile-pic.png" alt="Profile Image" width="200"/>
+  <img src="C:\Users\yuvar\Downloads\4x6_copy_212x261.jpg" alt="Profile Image" width="200"/>
 </p>
 
 ---
@@ -58,9 +58,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-![Yuvaraja's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yuvaraja-M&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuvaraja-M&layout=compact&theme=radical)
 
 ---
