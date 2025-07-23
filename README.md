@@ -2,7 +2,7 @@
 <h3 align="center">Final Year CSE (Data Science) Student | AI Agent & Blockchain Builder 🚀</h3>
 
 <p align="center">
-  <img src="https://github.com/Yuvaraja-M/Yuvaraja-M/blob/main/assets/profile.jpg?raw=true" alt="Profile Image" width="200"/>
+  
 
 </p>
 
